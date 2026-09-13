@@ -19,7 +19,7 @@ ACE3 ballistics compatibility for the Arma 3 weapon mod "JCA - SCAR" by Grave: [
 - Add 7.62x51mm Mk316 from ACE3 Ghitub and various sources.
 - Add 7.62x51mm Mk319 from ACE3 Ghitub and various sources.
 - Add 7.62x51mm SLAP XM948 from various sources.
-- Add 7.62x51mm SLAP Tracer XM949 from various sources.
+- Add 7.62x51mm SLAP Tracer XM959 from various sources.
 - Add 7.62x51mm B416 Subsonic according to Lapua data.
 - Add "ACE_railHeightAboveBore" values from ACE3 "checkScopes.sqf".
 - Effects and terminal ballistic based on vanilla Arma 3 values.
